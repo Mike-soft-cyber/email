@@ -1,5 +1,5 @@
 # Email Application
-This is a Java program that where an IT Support Administartor can create email accounts for new employees, including generating a department email address and a random password.
+This is a Java program that where users can create email accounts for new employees, including generating a department email address and a random password.
 
 ## Installation
 - Save the code in two files: Main.java and Email.java
